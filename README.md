@@ -19,11 +19,11 @@ Adversarial Attacks for semantic segmentation DNNs.
 
 ## Usage
 
-train.py : train segmentation models
+`train.py` : train segmentation models
 
-test.py : test data with trained models
+`test.py` : test data with trained models
 
-adversarial.py :  generate adversarial examples based on segmentation models
+`adversarial.py` :  generate adversarial examples based on segmentation models
 
 simple example
 
